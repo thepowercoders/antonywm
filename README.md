@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antonywm
-- 👀 I’m interested in Microsoft Power Platform and Azure Serverless Compute solutions
+- 👀 I’m interested in Microsoft Azure Logic Apps, Power Platform and Azure Serverless Compute solutions
 - 🌱 I’m currently learning to build custom automation using Flow Custom Connectors, Azure Functions and Logic Apps
 - 💞️ I’m looking to collaborate on anything which is cool!
 - 📫 How to reach me : drop me a message anytime!
